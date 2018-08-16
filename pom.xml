@@ -11,7 +11,7 @@
 
     <properties>
         <leshan.version>1.0.0-M6</leshan.version>
-        <orientdb.gremlin.version>3.0.2</orientdb.gremlin.version>
+        <orientdb.gremlin.version>3.0.6</orientdb.gremlin.version>
         <junit.version>4.12</junit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
